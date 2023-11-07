@@ -2,7 +2,7 @@
 
 Meu nome é Guilherme Azis e sou completamente apaixonado por tecnologia e games 😎
 
-Atualmente sou estudante da Trybe. É uma escola de desenvolvimento web que tem comprometimento genuíno com o sucesso profissional das pessoas estudantes. São mais de 1500 horas de formação, que aborda fundamentos de desenvolvimento web, desenvolvimento front-end, desenvolvimento back-end, ciência da computação, metodologias ágeis e habilidades comportamentais.
+Atualmente sou estudante de progamação e me aventurando em desenvolvimento de jogos com a plataforma Unreal. Nesse perfil, venho mostrar meu desenvolvimento enquanto programador.
 <br>
 
 <!-- GITHUB STATUS -->
